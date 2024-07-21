@@ -1,3 +1,5 @@
+Programming with Go (UCI)
+
 A Especialização em Programação com Google Go oferece três cursos intermediários para programadores experientes em outras linguagens interessados em aprender Go. Os cursos revisam conceitos essenciais de programação e preparam os alunos para explorar as particularidades do Go.
 
 Ministrados pelo Professor Ian Harris da Universidade da Califórnia, Irvine, os cursos incluem quizzes e tarefas de programação revisadas por pares, incentivando o uso de recursos online para esclarecimentos adicionais.
