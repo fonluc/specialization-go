@@ -1,4 +1,4 @@
-H1 Programming with Go (UCI)
+## Programming with Go (University of California, Irvine)
 
 ![GOrdonGOpher](https://github.com/user-attachments/assets/7049ed9e-a6d8-4c1e-b083-7a24e0eb5759)
 ![IanHarris](https://github.com/user-attachments/assets/d2bdc37e-d93a-4238-8d59-8110145d4ead)
