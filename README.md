@@ -1,8 +1,9 @@
 #Programming with Go (UCI)#
 
+![GOrdonGOpher](https://github.com/user-attachments/assets/7049ed9e-a6d8-4c1e-b083-7a24e0eb5759)
 ![signature-flushleft-blue](https://github.com/user-attachments/assets/23663961-7ea7-461e-b69a-31f0eeb5c70b)
 ![IanHarris](https://github.com/user-attachments/assets/d2bdc37e-d93a-4238-8d59-8110145d4ead)
-![GOrdonGOpher](https://github.com/user-attachments/assets/7049ed9e-a6d8-4c1e-b083-7a24e0eb5759)
+
 
 
 A Especialização em Programação com Google Go oferece três cursos intermediários para programadores experientes em outras linguagens interessados em aprender Go. Os cursos revisam conceitos essenciais de programação e preparam os alunos para explorar as particularidades do Go.
